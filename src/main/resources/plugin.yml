@@ -1,0 +1,8 @@
+name: Terrabans
+version: ${project.version}
+main: org.terradev.terrabans.Terrabans
+api-version: 1.16
+prefix: Terrabans
+authors: [ Skiller9090, dziaod, Geolykt, PSK1103 ]
+description: An advanced global blacklist, modernized for the future.
+website: https://terradev.org/
